@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou um Desenvolvedor Full-Stack apaixonado por tecnologia e inovação 🚀
+# 👋 Olá! Veja um pouco dos meus resultados. 🚀
 
 Sou movido por desafios e pela criação de **soluções de alto impacto**, com foco em performance, experiência do usuário e resultados reais. Já desenvolvi projetos que impactaram mais de **250 mil usuários**, entregando **redução de custos de até 50%** por meio de **automações inteligentes e otimizações eficazes**.
 
@@ -90,6 +90,10 @@ Sou movido por desafios e pela criação de **soluções de alto impacto**, com 
 ## 👀 Entre em contato!
 
 Se você procura um desenvolvedor com paixão por criar, otimizar e entregar resultados — vamos conversar!
+
+Visite meu linkedin para ver um pouco da minha trajetória.
+
+https://www.linkedin.com/in/alexmagalhaes-dev/
 
 📫 Entre em contato comigo para construirmos algo incrível juntos.
 
