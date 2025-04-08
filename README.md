@@ -8,31 +8,32 @@ Sou movido por desafios e pela criação de **soluções de alto impacto**, com 
 
 ### ⚡ Frontend  
 <p>
-  <img src="https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Styled--Components-db7093?style=flat&logo=styled-components&logoColor=white" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Router_Dom-CA4245?style=flat&logo=react-router&logoColor=white" />
   <img src="https://img.shields.io/badge/Context_API-61DAFB?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router_Dom-CA4245?style=flat&logo=react-router&logoColor=white" />
   <img src="https://img.shields.io/badge/Zustand-000000?style=flat&logo=zotero&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=react-query&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Styled--Components-db7093?style=flat&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white" />
 </p>
 
-### 🔧 Backend  
+### 🔧 Backend e deployment
 <p>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat&logo=api&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=babel&logoColor=black" />
+  <img src="https://img.shields.io/badge/Swagger-API-green?style=flat&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white" />
 </p>
 
 ### 🗄️ Banco de Dados  
@@ -53,7 +54,7 @@ Sou movido por desafios e pela criação de **soluções de alto impacto**, com 
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white" />
   <img src="https://img.shields.io/badge/Tag_Manager-246FDB?style=flat&logo=google-tag-manager&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Clarity-0066FF?style=flat&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hotjar-F56C2D?style=flat&logo=hotjar&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/Hotjar-F56C2D?style=flat&logo=hotjar&logoColor=white" />-->
 </p>
 
 ### 🤖 Automatizações & Outros  
@@ -61,7 +62,10 @@ Sou movido por desafios e pela criação de **soluções de alto impacto**, com 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI_Design-FF69B4?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/UX_Design-800080?style=flat&logo=figma&logoColor=white" />
+
 </p>
 
 ---
@@ -79,11 +83,14 @@ Sou movido por desafios e pela criação de **soluções de alto impacto**, com 
 ✔ Proatividade, liderança e colaboração  
 ✔ Perfil analítico com foco em resultados  
 ✔ Adaptável a desafios e novas tecnologias  
+✔ Trabalho em equipe e times
 
 ---
 
-## 👀 Estou em busca de oportunidades!
+## 👀 Entre em contato!
 
 Se você procura um desenvolvedor com paixão por criar, otimizar e entregar resultados — vamos conversar!
 
 📫 Entre em contato comigo para construirmos algo incrível juntos.
+
+Email: alexmagalhaesprofissional@gmail.com
