@@ -7,38 +7,62 @@ Sou movido por desafios e pela criação de **soluções de alto impacto**, com 
 ## 🛠️ Tech Stack
 
 ### ⚡ Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)  
-![Styled Components](https://img.shields.io/badge/Styled--Components-db7093?style=flat&logo=styled-components&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)  
+<p>
+  <img src="https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Styled--Components-db7093?style=flat&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router_Dom-CA4245?style=flat&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/Context_API-61DAFB?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=flat&logo=zotero&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=react-query&logoColor=white" />
+</p>
 
 ### 🔧 Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat&logo=fastapi&logoColor=white)  
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=babel&logoColor=black" />
+</p>
 
 ### 🗄️ Banco de Dados  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+</p>
+
+### 🧪 Testes  
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat&logo=testing-library&logoColor=white" />
+</p>
 
 ### 📊 Métricas & Monitoramento  
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)  
-![Google Tag Manager](https://img.shields.io/badge/Tag_Manager-246FDB?style=flat&logo=google-tag-manager&logoColor=white)  
-![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-0066FF?style=flat&logo=microsoft&logoColor=white)  
-![Hotjar](https://img.shields.io/badge/Hotjar-F56C2D?style=flat&logo=hotjar&logoColor=white)  
+<p>
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tag_Manager-246FDB?style=flat&logo=google-tag-manager&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Clarity-0066FF?style=flat&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hotjar-F56C2D?style=flat&logo=hotjar&logoColor=white" />
+</p>
 
 ### 🤖 Automatizações & Outros  
-![Google Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+</p>
 
 ---
 
@@ -63,6 +87,3 @@ Sou movido por desafios e pela criação de **soluções de alto impacto**, com 
 Se você procura um desenvolvedor com paixão por criar, otimizar e entregar resultados — vamos conversar!
 
 📫 Entre em contato comigo para construirmos algo incrível juntos.
-
----
-
