@@ -1,6 +1,6 @@
 # 👋 Olá! Veja um pouco dos meus resultados. 🚀
 
-Sou movido por desafios e pela criação de **soluções de alto impacto**, com foco em performance, experiência do usuário e resultados reais. Já desenvolvi projetos que impactaram mais de **250 mil usuários**, entregando **redução de custos de até 50%** por meio de **automações inteligentes e otimizações eficazes**.
+Sou movido por desafios e pela criação de **soluções de alto impacto**, com foco em performance, experiência do usuário e resultados reais. Já desenvolvi projetos que impactaram mais de **milhares de usuários**, entregando **redução de custos** por meio de **automações inteligentes e otimizações eficazes**.
 
 ---
 
@@ -41,12 +41,6 @@ Sou movido por desafios e pela criação de **soluções de alto impacto**, com 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-</p>
-
-### 🧪 Testes  
-<p>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat&logo=testing-library&logoColor=white" />
 </p>
 
 ### 📊 Métricas & Monitoramento  
