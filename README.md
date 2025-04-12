@@ -66,9 +66,9 @@ Sou movido por desafios e pela criação de **soluções de alto impacto**, com 
 
 ## 💡 Resultados & Conquistas
 
-✅ +250 mil usuários impactados com soluções reais  
-✅ Redução de custos em até **50%** por meio de **automações**  
-✅ Projetos **eficientes**, **escaláveis** e **bem documentados**  
+✅ Soluções entregues que impactaram milhaes de usuários e visitantes.
+✅ Redução de custos por meio de otimizações e automações.
+✅ Criação de projetos eficientes, escaláveis e bem documentados. 
 
 ---
 
