@@ -1,4 +1,4 @@
-# 👋 Olá! Meu nome é Alex sou desenvolvedor fullstack. Veja um pouco dos meus resultados e projetos. 🚀
+# Olá! Sou Alex, desenvolvedor fullstack. Confira meus projetos e resultados. 🚀
 
 Sou movido por desafios e pela criação de **soluções de alto impacto**, com foco em performance, experiência do usuário e resultados reais. Já desenvolvi projetos que impactaram mais de **milhares de usuários**, entregando **redução de custos** por meio de **automações inteligentes e otimizações eficazes**.
 
