@@ -62,6 +62,7 @@ Sou movido por desafios e pela criação de **soluções de alto impacto**, com 
 
 </p>
 
+
 ---
 
 ## 💡 Resultados & Conquistas
@@ -92,3 +93,6 @@ https://www.linkedin.com/in/alexmagalhaes-dev/
 📫 Entre em contato comigo para construirmos algo incrível juntos.
 
 Email: alexmagalhaesprofissional@gmail.com
+
+---
+![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsmagalhaes&layout=compact&theme=dark)
