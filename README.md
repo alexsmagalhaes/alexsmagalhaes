@@ -30,6 +30,7 @@ Sou movido por desafios e pela criação de **soluções de alto impacto**, com 
 <p>
   <img src="https://img.shields.io/badge/REST_API-005571?style=flat&logo=api&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-API-green?style=flat&logo=swagger&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
