@@ -26,6 +26,7 @@ Já desenvolvi projetos que impactaram **milhares de usuários**, **redução de
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Turbopack-000000?style=flat&logo=turbopack&logoColor=white" />
 </p>
 
 ### Backend e deployment
@@ -61,7 +62,6 @@ Já desenvolvi projetos que impactaram **milhares de usuários**, **redução de
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/UI_Design-FF69B4?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/UX_Design-800080?style=flat&logo=figma&logoColor=white" />
