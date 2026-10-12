@@ -76,10 +76,10 @@ Já desenvolvi projetos que impactaram **milhares de usuários**, **redução de
 
 ## Soft Skills
 
-✔ Proatividade, liderança e colaboração  
-✔ Perfil analítico com foco em resultados  
-✔ Adaptável a desafios e novas tecnologias  
-✔ Trabalho em equipe
+✔ Proatividade, liderança e colaboração<br/>
+✔ Perfil analítico com foco em resultados<br/>
+✔ Adaptável a desafios e novas tecnologias<br/>
+✔ Trabalho em equipe<br/>
 ✔ Idiomas: Inglês e Português
 
 ---
