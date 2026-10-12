@@ -38,7 +38,6 @@ Já desenvolvi projetos que impactaram **milhares de usuários**, **redução de
   <img src="https://img.shields.io/badge/Swagger-API-green?style=flat&logo=swagger&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white" />
-   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white" />
 </p>
 
 ### Banco de Dados  
