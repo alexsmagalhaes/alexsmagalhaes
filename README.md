@@ -27,6 +27,8 @@ Já desenvolvi projetos que impactaram **milhares de usuários**, **redução de
   <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Turbopack-000000?style=flat&logo=turbopack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white" />
 </p>
 
 ### Backend e deployment
@@ -39,13 +41,14 @@ Já desenvolvi projetos que impactaram **milhares de usuários**, **redução de
   <img src="https://img.shields.io/badge/Swagger-API-green?style=flat&logo=swagger&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPS-Server-2496ED?style=flat&logo=linux&logoColor=white" />
 </p>
 
 ### Banco de Dados  
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
 </p>
 
 ### Métricas & Monitoramento  
@@ -74,9 +77,10 @@ Já desenvolvi projetos que impactaram **milhares de usuários**, **redução de
 
 ## Resultados & Conquistas
 
-✅ Soluções entregues que impactaram milhaes de usuários e visitantes.
-✅ Redução de custos por meio de otimizações e automações.
-✅ Criação de projetos eficientes, escaláveis e bem documentados. 
+✅ Soluções entregues que impactaram milhaes de usuários.
+✅ Redução de custos e processos em empresas.
+✅ Crescimento de receita e metrificação de resultados.
+✅ Criação de projetos eficientes, escaláveis e documentados. 
 
 ---
 
@@ -85,18 +89,17 @@ Já desenvolvi projetos que impactaram **milhares de usuários**, **redução de
 ✔ Proatividade, liderança e colaboração  
 ✔ Perfil analítico com foco em resultados  
 ✔ Adaptável a desafios e novas tecnologias  
-✔ Trabalho em equipe e times
+✔ Trabalho em equipe
 
 ---
 
-## Entre em contato!
-
-Se você procura um desenvolvedor com paixão por criar, otimizar e entregar resultados — vamos conversar!
+## Entre em contato
 
 Visite meu linkedin para ver um pouco da minha trajetória.
 
 https://www.linkedin.com/in/alexmagalhaes-dev/
 
-Entre em contato comigo para construirmos algo incrível juntos.
+Envie uma mensagem para um dos contatos abaixo:
 
+WhatsApp: (88) 9 9332 - 6040
 Email: alexmagalhaesprofissional@gmail.com
