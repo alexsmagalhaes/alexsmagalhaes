@@ -1,6 +1,8 @@
-# Olá! Sou Alex, desenvolvedor fullstack. Confira meus projetos e resultados.
+# Alex Magalhães. Desenvolvedor fullstack.
 
-Sou movido por desafios e pela criação de **soluções de alto impacto**, com foco em performance, experiência do usuário e resultados reais. Já desenvolvi projetos que impactaram mais de **milhares de usuários**, entregando **redução de custos** por meio de **automações inteligentes e otimizações eficazes**.
+Crio **soluções de alto impacto**, com foco em performance, experiência do usuário e resultados reais. 
+
+Já desenvolvi projetos que impactaram **milhares de usuários**, **redução de custos** e alinhamento com os objetivos das empresas.
 
 ---
 
