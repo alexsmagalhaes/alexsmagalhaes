@@ -1,12 +1,12 @@
-# Olá! Sou Alex, desenvolvedor fullstack. Confira meus projetos e resultados. 🚀
+# Olá! Sou Alex, desenvolvedor fullstack. Confira meus projetos e resultados.
 
 Sou movido por desafios e pela criação de **soluções de alto impacto**, com foco em performance, experiência do usuário e resultados reais. Já desenvolvi projetos que impactaram mais de **milhares de usuários**, entregando **redução de custos** por meio de **automações inteligentes e otimizações eficazes**.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### ⚡ Frontend  
+### Frontend  
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -26,7 +26,7 @@ Sou movido por desafios e pela criação de **soluções de alto impacto**, com 
   <img src="https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white" />
 </p>
 
-### 🔧 Backend e deployment
+### Backend e deployment
 <p>
   <img src="https://img.shields.io/badge/REST_API-005571?style=flat&logo=api&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
@@ -37,14 +37,14 @@ Sou movido por desafios e pela criação de **soluções de alto impacto**, com 
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white" />
 </p>
 
-### 🗄️ Banco de Dados  
+### Banco de Dados  
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 </p>
 
-### 📊 Métricas & Monitoramento  
+### Métricas & Monitoramento  
 <p>
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white" />
   <img src="https://img.shields.io/badge/Tag_Manager-246FDB?style=flat&logo=google-tag-manager&logoColor=white" />
@@ -66,7 +66,7 @@ Sou movido por desafios e pela criação de **soluções de alto impacto**, com 
 
 ---
 
-## 💡 Resultados & Conquistas
+## Resultados & Conquistas
 
 ✅ Soluções entregues que impactaram milhaes de usuários e visitantes.
 ✅ Redução de custos por meio de otimizações e automações.
@@ -74,7 +74,7 @@ Sou movido por desafios e pela criação de **soluções de alto impacto**, com 
 
 ---
 
-## 🤝 Soft Skills & Cultura
+## Soft Skills & Cultura
 
 ✔ Proatividade, liderança e colaboração  
 ✔ Perfil analítico com foco em resultados  
@@ -83,7 +83,7 @@ Sou movido por desafios e pela criação de **soluções de alto impacto**, com 
 
 ---
 
-## 👀 Entre em contato!
+## Entre em contato!
 
 Se você procura um desenvolvedor com paixão por criar, otimizar e entregar resultados — vamos conversar!
 
@@ -91,9 +91,6 @@ Visite meu linkedin para ver um pouco da minha trajetória.
 
 https://www.linkedin.com/in/alexmagalhaes-dev/
 
-📫 Entre em contato comigo para construirmos algo incrível juntos.
+Entre em contato comigo para construirmos algo incrível juntos.
 
 Email: alexmagalhaesprofissional@gmail.com
-
----
-![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsmagalhaes&layout=compact&theme=dark)
