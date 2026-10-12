@@ -74,12 +74,13 @@ Já desenvolvi projetos que impactaram **milhares de usuários**, **redução de
 
 ---
 
-## Soft Skills & Cultura
+## Soft Skills
 
 ✔ Proatividade, liderança e colaboração  
 ✔ Perfil analítico com foco em resultados  
 ✔ Adaptável a desafios e novas tecnologias  
 ✔ Trabalho em equipe
+✔ Idiomas: Inglês e Português
 
 ---
 
