@@ -101,5 +101,5 @@ https://www.linkedin.com/in/alexmagalhaes-dev/
 
 Envie uma mensagem para um dos contatos abaixo:
 
-WhatsApp: (88) 9 9332 - 6040
+WhatsApp: (88) 9 9332 - 6040 <br/>
 Email: alexmagalhaesprofissional@gmail.com
