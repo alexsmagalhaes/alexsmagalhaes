@@ -30,6 +30,7 @@ Já desenvolvi projetos que impactaram **milhares de usuários**, **redução de
 
 ### Backend e deployment
 <p>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-005571?style=flat&logo=api&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
@@ -37,6 +38,7 @@ Já desenvolvi projetos que impactaram **milhares de usuários**, **redução de
   <img src="https://img.shields.io/badge/Swagger-API-green?style=flat&logo=swagger&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white" />
+   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white" />
 </p>
 
 ### Banco de Dados  
@@ -51,10 +53,12 @@ Já desenvolvi projetos que impactaram **milhares de usuários**, **redução de
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white" />
   <img src="https://img.shields.io/badge/Tag_Manager-246FDB?style=flat&logo=google-tag-manager&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Clarity-0066FF?style=flat&logo=microsoft&logoColor=white" />
-  <!--<img src="https://img.shields.io/badge/Hotjar-F56C2D?style=flat&logo=hotjar&logoColor=white" />-->
+  <img src="https://img.shields.io/badge/Hotjar-F56C2D?style=flat&logo=hotjar&logoColor=white" />
+  <img src="https://img.shields.io/badge/LGPD-Proteção_de_Dados-0066CC?style=flat&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentry-Monitoramento-362D59?style=flat&logo=sentry&logoColor=white" />
 </p>
 
-### 🤖 Automatizações & Outros  
+### IA, Automatizações & Outros  
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
@@ -62,7 +66,8 @@ Já desenvolvi projetos que impactaram **milhares de usuários**, **redução de
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/UI_Design-FF69B4?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/UX_Design-800080?style=flat&logo=figma&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
 </p>
 
 
