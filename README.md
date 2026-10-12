@@ -72,16 +72,6 @@ Já desenvolvi projetos que impactaram **milhares de usuários**, **redução de
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
 </p>
 
-
----
-
-## Resultados
-
-✅ Soluções entregues que impactaram milhaes de usuários.
-✅ Redução de custos e processos em empresas.
-✅ Crescimento de receita e metrificação de resultados.
-✅ Criação de projetos eficientes, escaláveis e documentados. 
-
 ---
 
 ## Soft Skills & Cultura
@@ -93,13 +83,22 @@ Já desenvolvi projetos que impactaram **milhares de usuários**, **redução de
 
 ---
 
+## Resultados
+
+✅ Soluções entregues que impactaram milhaes de usuários.<br/>
+✅ Redução de custos e processos em empresas.<br/>
+✅ Crescimento de receita e metrificação de resultados.<br/>
+✅ Criação de projetos eficientes, escaláveis e documentados. 
+
+---
+
 ## Entre em contato
 
-Visite meu linkedin para ver um pouco da minha trajetória.
+Acompanhe o processo dos projetos:
 
-https://www.linkedin.com/in/alexmagalhaes-dev/
+**https://www.linkedin.com/in/alexmagalhaes-dev/**
 
 Envie uma mensagem para um dos contatos abaixo:
 
-WhatsApp: (88) 9 9332 - 6040 <br/>
-Email: alexmagalhaesprofissional@gmail.com
+**WhatsApp: (88) 9 9332 - 6040** <br/>
+**Email: alexmagalhaesprofissional@gmail.com**
