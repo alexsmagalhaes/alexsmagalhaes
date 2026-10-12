@@ -75,7 +75,7 @@ Já desenvolvi projetos que impactaram **milhares de usuários**, **redução de
 
 ---
 
-## Resultados & Conquistas
+## Resultados
 
 ✅ Soluções entregues que impactaram milhaes de usuários.
 ✅ Redução de custos e processos em empresas.
