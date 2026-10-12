@@ -2,7 +2,7 @@
 
 Crio **soluções de alto impacto**, com foco em performance, experiência do usuário e resultados reais. 
 
-Já desenvolvi projetos que impactaram **milhares de usuários**, **redução de custos** e alinhamento com os objetivos das empresas.
+Já desenvolvi projetos que impactaram **milhares de usuários**, **redução de custos e processos**, **aumento de receitas** e alinhamento com os objetivos das empresas.
 
 ---
 
